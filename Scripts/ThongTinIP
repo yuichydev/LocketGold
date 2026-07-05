@@ -1,0 +1,9 @@
+name: Musr IP
+desc: Information IP
+tiles:
+  - name: IP
+    icon: 'mappin.and.ellipse'
+    backgroundColor: '#00FF00'
+script-providers:
+  IP:
+    url: https://raw.githubusercontent.com/yuichydev/LocketGold/refs/heads/main/Scripts/ThongTinIP.js
